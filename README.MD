@@ -1,6 +1,6 @@
 # mywallet
 
-> A Vue.js project
+> A simple eth wallet demo create by vue web3.js
 
 ## Build Setup
 
