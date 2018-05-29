@@ -2,6 +2,15 @@
 
 > A simple eth wallet demo create by vue web3.js
 
+# functional description
+
+> create  wallet
+> export  keystore ， privatekey
+> impoort wallet by  keystore  mnemonic privatekey
+> send  transaction 
+> order query
+
+
 ## Build Setup
 
 ``` bash
